@@ -1,0 +1,20 @@
+body {
+  font-size: 20 px;
+}
+
+body div {
+  font-size: 10 px;
+}
+
+.testDiv {
+  border: 1px solid red;
+  padding: 20px;
+  width: 400px;
+  margin-top: 20px;
+
+  display: none;
+}
+
+.test {
+  display: block !important;
+}
